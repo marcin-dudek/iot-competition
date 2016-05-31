@@ -1,0 +1,2 @@
+Presentation about IoT competition
+
